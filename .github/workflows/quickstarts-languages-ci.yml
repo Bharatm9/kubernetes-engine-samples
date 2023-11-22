@@ -43,3 +43,4 @@ jobs:
         run: |
           cd quickstarts/languages/ruby
           docker build --tag quickstart-ruby .
+
